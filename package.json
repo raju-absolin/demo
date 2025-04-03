@@ -1,7 +1,7 @@
 {
 	"name": "base_template",
 	"private": true,
-	"version": "0.1.10",
+	"version": "0.1.11",
 	"author": "Ajay",
 	"type": "module",
 	"scripts": {
